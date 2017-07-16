@@ -1,0 +1,3 @@
+E:\WORKSPACE\vs\123\123\bin\Debug\123.exe.config
+E:\WORKSPACE\vs\123\123\obj\Debug\_123.Properties.Resources.resources
+E:\WORKSPACE\vs\123\123\obj\Debug\123.csproj.GenerateResource.Cache

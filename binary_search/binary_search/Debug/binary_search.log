@@ -1,0 +1,10 @@
+﻿  binary_search.cpp
+e:\workspace\vs\binary_search\binary_search\binary_search.cpp(4): warning C4627: “#include <iostream>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\binary_search\binary_search\binary_search.cpp(4): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\binary_search\binary_search\binary_search.cpp(5): warning C4627: “#include <vector>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\binary_search\binary_search\binary_search.cpp(5): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\binary_search\binary_search\binary_search.cpp(6): warning C4627: “#include <stdlib.h>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\binary_search\binary_search\binary_search.cpp(6): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\binary_search\binary_search\binary_search.cpp(7): warning C4627: “#include <assert.h>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\binary_search\binary_search\binary_search.cpp(7): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\binary_search\binary_search\binary_search.cpp(54): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

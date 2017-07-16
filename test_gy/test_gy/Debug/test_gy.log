@@ -1,0 +1,3 @@
+﻿  test_gy.cpp
+e:\workspace\vs\test_gy\test_gy\test_gy.cpp(74): warning C4018: “>=”: 有符号/无符号不匹配
+  test_gy.vcxproj -> E:\WORKSPACE\vs\test_gy\Debug\test_gy.exe

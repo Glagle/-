@@ -1,0 +1,5 @@
+E:\WORKSPACE\vs\TEST\TEST\bin\Debug\TEST.exe.config
+E:\WORKSPACE\vs\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+E:\WORKSPACE\vs\TEST\TEST\obj\Debug\TEST.Form1.resources
+E:\WORKSPACE\vs\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+E:\WORKSPACE\vs\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache

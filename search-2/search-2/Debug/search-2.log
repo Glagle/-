@@ -1,0 +1,26 @@
+﻿  search-2.cpp
+e:\workspace\vs\search-2\search-2\search-2.cpp(4): warning C4627: “#include <iostream>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\search-2\search-2\search-2.cpp(4): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\search-2\search-2\search-2.cpp(5): warning C4627: “#include <vector>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\search-2\search-2\search-2.cpp(5): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\search-2\search-2\search-2.cpp(6): warning C4627: “#include <stdlib.h>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\search-2\search-2\search-2.cpp(6): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\search-2\search-2\search-2.cpp(7): warning C4627: “#include <assert.h>”: 在查找预编译头使用时跳过
+  e:\workspace\vs\search-2\search-2\search-2.cpp(7): note: 将指令添加到“stdafx.h”或重新生成预编译头
+e:\workspace\vs\search-2\search-2\search-2.cpp(12): error C2065: “vector”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(12): error C2062: 意外的类型“int”
+e:\workspace\vs\search-2\search-2\search-2.cpp(13): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\workspace\vs\search-2\search-2\search-2.cpp(13): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\workspace\vs\search-2\search-2\search-2.cpp(38): error C2065: “vector”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(38): error C2062: 意外的类型“int”
+e:\workspace\vs\search-2\search-2\search-2.cpp(41): error C2065: “a”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(41): error C2228: “.size”的左边必须有类/结构/联合
+  e:\workspace\vs\search-2\search-2\search-2.cpp(41): note: 类型是“unknown-type”
+e:\workspace\vs\search-2\search-2\search-2.cpp(43): error C2065: “a”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(43): error C2228: “.push_back”的左边必须有类/结构/联合
+  e:\workspace\vs\search-2\search-2\search-2.cpp(43): note: 类型是“unknown-type”
+e:\workspace\vs\search-2\search-2\search-2.cpp(45): error C2065: “a”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(45): error C3861: “binary_search”: 找不到标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(46): error C2065: “cout”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(46): error C2065: “endl”: 未声明的标识符
+e:\workspace\vs\search-2\search-2\search-2.cpp(47): error C3861: “system”: 找不到标识符

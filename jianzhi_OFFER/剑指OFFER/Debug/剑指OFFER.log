@@ -1,0 +1,3 @@
+﻿  剑指OFFER.cpp
+e:\workspace\vs\剑指offer\剑指offer\剑指offer.cpp(84): warning C4305: “return”: 从“int”到“bool”截断
+  剑指OFFER.vcxproj -> E:\WORKSPACE\vs\剑指OFFER\Debug\剑指OFFER.exe

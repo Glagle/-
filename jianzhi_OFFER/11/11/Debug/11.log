@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  11.cpp
+e:\workspace\vs\11\11\11.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+e:\workspace\vs\11\11\11.cpp(35): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  11.vcxproj -> E:\WORKSPACE\vs\11\Debug\11.exe

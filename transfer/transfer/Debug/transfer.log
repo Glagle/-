@@ -1,0 +1,2 @@
+﻿  transfer.cpp
+LINK : fatal error LNK1168: 无法打开 E:\WORKSPACE\vs\transfer\Debug\transfer.exe 进行写入
